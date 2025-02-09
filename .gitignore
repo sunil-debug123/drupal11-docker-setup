@@ -1,0 +1,4 @@
+db_data/
+drupal/vendor/
+node_modules/
+.env

@@ -1,0 +1,7 @@
+vendor
+web/core
+# Ignore Drupal settings file
+sites/default/settings.php
+
+# Ignore uploaded files directory
+sites/default/files/
